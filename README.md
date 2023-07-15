@@ -49,7 +49,7 @@
 - Testing and Debugging:
 
 ## Writing unit tests with the test package
-- - Debugging Dart applications with IDEs like VS Code
+- Debugging Dart applications with IDEs like VS Code
 - Logging and error handling techniques
 - Performance profiling and optimization
 - Advanced Dart Concepts and Topics:
